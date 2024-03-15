@@ -24,19 +24,8 @@ El código fuente del programa se encuentra en el archivo `ExamenP1.java`. Este 
 
 ## Contribuciones
 
-Las contribuciones al proyecto son bienvenidas. Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios.
-4. Haz commit de tus cambios (`git commit -am 'Agrega nueva característica'`).
-5. Sube tus cambios a tu repositorio fork (`git push origin feature/nueva-caracteristica`).
-6. Haz un pull request en el repositorio original.
+Las contribuciones al proyecto son bienvenidas. Si deseas contribuir al proyecto.
 
 ## Autor
 
 Samuel Gutierrez Barona - [Perfil GitHub](https://github.com/tuusuario)
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
